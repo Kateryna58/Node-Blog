@@ -1,0 +1,17 @@
+/* body{
+    background-color: red;
+} */
+.form-control{
+    margin:5px;
+}
+div.twitter{
+    height:45.35px;
+}
+div.twitter span{
+    display:block;
+    width:65.73px;
+}
+.btn-biger{
+    display:inline-block;
+    padding-top:5px;
+}
